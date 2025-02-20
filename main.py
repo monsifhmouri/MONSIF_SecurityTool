@@ -18,7 +18,7 @@ from fpdf import FPDF
 console = Console()
 
 # إعداد كلمة المرور
-PASSWORD_HASH = bcrypt.hashpw(b"mamakorra1990", bcrypt.gensalt())
+PASSWORD_HASH = bcrypt.hashpw(b"ur password", bcrypt.gensalt())
 
 def verify_password():
     password = getpass.getpass("[bold cyan]أدخل كلمة المرور: [/bold cyan]").encode('utf-8')
