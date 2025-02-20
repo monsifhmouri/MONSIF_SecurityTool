@@ -1,0 +1,629 @@
+<!DOCTYPE html>
+<html>
+
+
+<meta http-equiv="content-type" content="text/html;charset=UTF-8" />
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>CASHPUB : Gagner de l'argent sur internet Maroc</title>
+	<meta name="description" content="Gagnez de l'argent facilement en visionnant des publicitÃ©s" />
+	<meta name="keywords" content="gagner, gagner argent, gratuit, gagner argent maroc, flouss, jeux cadeaux, jeux concours, concours gratuits, jeux gratuits, tombola, tombolas, jeux, jeu, concours">
+    <meta name="author" content="">    
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1.0, shrink-to-fit=no">
+    
+    <link rel="icon" type="image/png" href="img/favicon_cashpub.ico"/>
+    
+    <!-- Bootstrap core CSS -->
+    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="vendor/bootstrap/css/bootstrap-select.min.css" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/0.8.2/css/flag-icon.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="owlcarousel/dist/assets/owl.carousel.min.css"/>    
+    <link rel="stylesheet" href="vendor/fontawesome-free/css/all.min.css">  <!-- Custom styles for this template -->
+    <link href="fonts/stylesheet.css" rel="stylesheet">
+    <link href="fonts/icomoon/style.css" rel="stylesheet">
+    <link href="vendor/animate/aos.css" rel="stylesheet">
+    <link href="css/style622c.css?ver=0.0.2" rel="stylesheet">  <!-- Current Page CSS -->
+    <link rel="stylesheet" href="vendor/rs-plugin/css/settings.css">
+    <link rel="stylesheet" href="vendor/rs-plugin/css/layers.css">
+    <link rel="stylesheet" href="vendor/rs-plugin/css/navigation.css">  <!-- Theme Custom CSS -->
+    <link rel="stylesheet" href="css/custom.css">  <!-- Head Libs -->
+    <script src="vendor/modernizr/modernizr.min.js"></script>
+    
+    
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-Q8EHHTX648"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-Q8EHHTX648');
+</script>    
+    
+    	
+<!-- Global site tag (gtag.js) - Google Analytics old -->
+<!--<script async src="https://www.googletagmanager.com/gtag/js?id=UA-118596054-2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-118596054-2');
+  
+</script>-->
+
+<!-- Google tag (gtag.js) oooooold  -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-1030620692"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-1030620692');
+</script>
+
+
+<script async src="https://get.geojs.io/v1/ip/geo.js"></script>
+<script>
+function geoip(json){
+    	if(json.country_code != 'MA'){
+    		window.location.href='index_fr.html';
+    	}
+}
+</script>    
+
+<script>
+//teste de langue
+
+// RÃ©cupÃ©rer la langue stockÃ©e dans le localStorage
+var savedLang = localStorage.getItem('cashpub_lang');
+// VÃ©rifier si la redirection a dÃ©jÃ  Ã©tÃ© effectuÃ©e
+var alreadyRedirected = sessionStorage.getItem('already_redirected');
+// Si une langue est stockÃ©e et aucune redirection n'a Ã©tÃ© effectuÃ©e
+if (savedLang && !alreadyRedirected) {
+    // Marquer la redirection comme effectuÃ©e pour cette session
+    sessionStorage.setItem('already_redirected', 'true');
+    // Rediriger l'utilisateur vers la langue choisie
+    if (savedLang === 'ar') {
+        window.location.href = '/ar/index.html'; // Exemple : page en arabe
+    } else if (savedLang === 'en') {
+        window.location.href = '/en/index.html'; // Exemple : page en anglais
+    }
+}
+
+</script>
+
+   
+    
+<style>
+    .youtube-player iframe {
+        position: relative;
+        top: 0;
+        left: 0;
+        width: 75%;
+        height: 450px;
+        z-index: 100;
+        background: transparent;
+    }    
+    .youtube-player .play {
+        height: 72px;
+        width: 72px;
+        left: 50%;
+        top: 50%;
+        margin-left: -36px;
+        margin-top: -36px;
+        position: absolute;
+        background: url('https://www.cashpub.ma/images/youtube_play_video_icon.png') no-repeat;
+        cursor: pointer;
+    }    
+   .youtube-player-img{
+    	width:100%;
+    	max-width:480px;
+    }
+
+</style>
+
+<!-- Meta Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window, document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '1164864081523936');
+fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=1164864081523936&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Meta Pixel Code -->
+
+   
+    
+</head>
+<body class="home">  
+
+
+
+<div class="body-content">
+<nav class="navbar navbar-expand-lg navbar-light bg-white shadow-sm" id="myHeader">
+    <div class="container">
+        <button class="navbar-toggler open" type="button" onclick="openNav()"><span class="navbar-toggler-icon"></span>
+        </button>
+        <a class="navbar-brand" href="#"><img src="images/cashpub.png" alt="" onclick="window.location.href='index.html'"></a>
+        
+        <!-- <button class="navbar-toggler open" type="button" data-toggle="modal" data-target="#loginModal"> -->
+        <button class="navbar-toggler open" type="button" onclick="connexion()">
+        <span class="navbar-toggler-icon login"></span>
+        </button>
+		
+        <button class="navbar-toggler closeNav" type="button" style="display: none;" onclick="closeNav()"><span
+                    class="navbar-toggler-icon"></span></button>
+        <div class="collapse navbar-collapse text-center" id="navbarResponsives">
+            <ul class="navbar-nav ml-auto">
+                <li class="nav-item active"><a class="nav-link" href="index.html">Accueil <span
+                                class="sr-only">(current)</span> </a></li>
+                <li class="nav-item"><a class="nav-link" href="ccm.html">Comment Ã§a marche ?</a></li>
+                <li class="nav-item"><a class="nav-link" href="gagnants.html">Nos gagnants</a></li>
+                <li class="nav-item"><a class="nav-link connexion" href="#">
+                        <!-- <button  data-toggle="modal" data-target="#loginModal">Se connecter</button> -->
+                        <button onclick="connexion()">Se connecter</button>                        						
+                    </a></li>
+                <li class="nav-item"><a class="nav-link sinscrire" href="#">
+                        <!--<button data-toggle="modal" data-target="#registerModal">S'inscrire</button>-->
+						<button onclick="window.location.href='subscribeMembreLightInitAction.do'">S'inscrire</button>
+						
+                    </a></li>
+                <!--<li class="nav-item dropdown"><a class="nav-link dropdown-toggle" href="#" id="dropdown09"
+                                                 data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><span
+                                class="flag-icon flag-icon-fr"> </span></a>
+                    <div class="dropdown-menu" aria-labelledby="dropdown09"><a class="dropdown-item" href="#fr"><span
+                                    class="flag-icon flag-icon-ma"> </span> Ø§ÙØ¹Ø±Ø¨ÙØ© </a></div>-->
+									
+                </li>
+            </ul>
+        </div>
+    </div>
+</nav>  <!-- The overlay -->
+<div id="myNav" class="overlay">    <!-- Overlay content -->
+    <div class="overlay-content mobile-menu">
+        <ul class="navbar-nav ml-auto">
+            <li class="nav-item active"><a class="nav-link" href="index.html">Accueil <span
+                            class="icon-long-right-arrow"></span> </a></li>
+            <li class="nav-item"><a class="nav-link" href="ccm.html">Comment Ã§a marche ? <span
+                            class="icon-long-right-arrow"></span></a></li>
+            <li class="nav-item"><a class="nav-link" href="gagnants.html">Nos gagnants <span
+                            class="icon-long-right-arrow"></span></a></li>
+            <li class="nav-item btns-first"><a class="nav-link connexion" href="#" align="center">                    
+                    <!-- <button  data-toggle="modal" data-target="#loginModal">Se connecter</button> -->
+                        <button onclick="connexion()">Se connecter</button>                        								
+                </a></li>
+            <li class="nav-item btns-last"><a class="nav-link sinscrire" href="#" align="center">
+                    <!--<button data-toggle="modal" data-target="#registerModal">S'inscrire</button>-->
+					<button onclick="window.location.href='subscribeMembreLightInitAction.do'">S'inscrire</button>
+                </a></li>
+            
+            <li class="nav-item"><a class="nav-link" href="Faq.html">FAQ <span class="icon-long-right-arrow"></span></a>
+            </li>
+            <!--<li class="nav-item dropdown"><a class="nav-link dropdown-toggle" href="#" id="dropdown09"
+                                             data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><span
+                            class="flag-icon flag-icon-fr"> </span> FranÃ§ais</a>
+                <div class="dropdown-menu" aria-labelledby="dropdown09"><a class="dropdown-item" href="#fr"><span
+                                    class="flag-icon flag-icon-ma"> </span> Ø§ÙØ¹Ø±Ø¨ÙØ© </a></div>-->
+            </li>
+        </ul>
+    </div>
+</div>  <!-- Page Content -->
+
+
+ 
+<div class="container-fluidd slider" style="padding-left:0px;padding-right:0px;">
+  
+  	<div align="center">
+  
+	<img id="img_slider" src="images/Slider-home(3)_minified.png" class="img-fluid" />	
+	
+	<!--<img id="img_slider" src="images/bg-slider-mobile3.jpg" class="img-fluid" />-->
+	
+	<!-- <img id="img_slider" src="" class="img-fluid" /> -->
+	
+	</div>	
+	
+
+	<div class="row text-center">
+      <div class="col-sm-12 animated">        
+		<a href="subscribeMembreLightInitAction.do" id="slider-register2">
+          <img src="images/button-register.png" class="img-register2" alt=""><br>
+          <span>S'inscrire</span>
+        </a>
+		
+      </div>
+    </div>
+  </div>
+ 
+ 
+
+<!-- 
+
+   <div class="container-fluid slider home-slider">
+      
+    <div class="slider-with-overlay">
+
+     <div class="slider-container rev_slider_wrapper" style="height: 670px;">
+        <div id="revolutionSlider" class="slider rev_slider"
+         data-version="5.4.8" data-plugin-revolution-slider data-plugin-options="{'delay': 100, 'gridwidth': [1180,1180,1180,700], 'gridheight': [670,670,670,700], 'disableProgressBar': 'on', 'responsiveLevels': [4096,1200,992,602], 'navigation' : {'arrows': { 'enable': false }, 'bullets': {'enable': false, 'style': 'bullets-style-1', 'h_align': 'center', 'v_align': 'bottom', 'space': 7, 'v_offset': 70, 'h_offset': 0}}}">
+          <ul>
+            <li data-transition="fade">
+              <img src="images/Slider-home(1).png"
+                   alt=""
+                   data-bgposition="center center"
+                   data-bgfit="cover"
+                   data-bgrepeat="no-repeat"
+                   class="rev-slidebg">
+
+              <div class="tp-caption tp-resizeme text-slider"
+                   data-frames='[{"delay":300,"speed":500,"frame":"0","from":"opacity:0;x:-100%;y:-100%;","to":"o:1;x:10;y:-100;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;fb:0;","ease":"Power3.easeInOut"}]'
+                   data-type="image"
+                   data-x="left"
+                   data-y="center"
+                   data-width="['auto']"
+                   data-height="['auto']"
+                   data-basealign="slide">
+                <img id="text-slider" src="images/text-slider.png" alt="">
+              </div>
+
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+
+    <div class="row text-center">
+      <div class="col-sm-12 animated">       
+		<a href="subscribeMembreLightInitAction.do" id="slider-register">
+          <img src="images/button-register.png" class="img-register" alt=""><br>
+          <span>S'inscrire</span>
+        </a>
+		
+      </div>
+      
+      
+      
+    </div>
+    
+     
+    
+
+  </div>
+  
+   -->
+  
+  
+  <section id="ccm">
+    <div class="container">
+      <div class="row text-center ccm">
+        <div class="col-sm-12 headling"  data-aos="zoom-in">
+          <h2>Comment <span>Ã§a marche ?</span></h2>
+        </div>
+        <div class="col-sm-12 col-md-4"  data-aos="fade-left" >
+          <img src="images/ccm/Ico-1.png" alt="">
+          <p><strong>Je visionne des publicitÃ©s</strong><!--<br />pour gagner des points--></p>
+        </div>
+        <div class="col-sm-12 col-md-4"  data-aos="fade-down" data-aos-delay="100">
+          <img src="images/ccm/Ico-2.png" alt="">
+          <p><strong>Je parraine mes amis </strong><!--<br />pour gagner des points--></p>
+        </div>
+        <div class="col-sm-12 col-md-4"  data-aos="fade-right" data-aos-delay="200">
+          <img src="images/ccm/Ico-3.png" alt="">
+          <p><strong>Je gagne 1000 DH</strong><!-- <br />quand j'atteinds 50 000 points --></p>
+        </div>
+        <div class="col-sm-12">
+          <button class="plus" onclick="window.location.href='ccm.html'">En savoir plus</button>
+        </div>
+      </div>
+    </div>
+  </section>
+  <section id="video">
+  	<div class="container">
+  		<div class="row text-center">
+          <div class="col-sm-12"  data-aos="zoom-in">
+            <h2>ils ont gagnÃ© !</h2>
+          </div>
+          <div class="col-sm-12"  data-aos="zoom-in">
+          <!-- 
+            <iframe style="width: 75%" height="450" src="https://www.youtube.com/embed/ngHKTGUX9tw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          -->
+          
+          <div class="youtube-player" data-id="ngHKTGUX9tw"></div>
+           
+            
+          </div>
+          <div class="col-sm-12">
+            <button class="decouvrir" onclick="window.location='gagnants.html'">Plus de tÃ©moignages</button>
+          </div>
+  		</div>
+  	</div>
+  </section>
+  <section id="partners">
+    <div class="container">
+      <!-- Nos partenaires -->
+      <div class="row text-center partners">
+        <div class="col-sm-12 headling"  data-aos="zoom-in">
+          <h2>Nos rÃ©fÃ©rences</h2>
+        </div>
+        <div class="owl-carousel owl-theme"  data-aos="zoom-out">
+        <div align="center"><img src="images/partners/attijari.png" style="cursor:pointer;" alt="" onclick="window.open('https://attijarinet.attijariwafa.com/particulier/')"></div>        
+        <div align="center"><img src="images/partners/bank_assafa.png" style="cursor:pointer;" onclick="window.open('https://www.bankassafa.com/')" alt=""></div>
+        <div align="center"><img src="images/partners/banque_populaire.jpg" style="cursor:pointer;" onclick="window.open('https://bpnet.gbp.ma/')" alt=""></div>
+        <div align="center"><img src="images/partners/lbanka.jpg" style="cursor:pointer;" onclick="window.open('https://www.lbankalik.ma/fr?utm_medium=video&utm_source=cashpub_adw&utm_campaign=Attijariwafa_Web_Lbankalik_Performance_Juillet-Septembre_2019&utm_content=video')" alt=""></div>
+        <div align="center"><img src="images/partners/wafaassurance.png" style="cursor:pointer;" onclick="window.open('https://www.wafaassurance.ma/fr')" alt=""></div>
+        <div align="center"><img src="images/partners/wafasalaf.png" style="cursor:pointer;" onclick="window.open('https://www.wafasalaf.ma/')" alt=""></div>
+        <div align="center"><img src="images/partners/wafaimmobilier.png" style="cursor:pointer;" onclick="window.open('https://www.wafaimmobilier.com/')" alt=""></div>
+        <div align="center"><img src="images/partners/orange.jpg" style="cursor:pointer;" onclick="window.open('https://www.orange.ma/')" alt=""></div>
+        <div align="center"><img src="images/partners/alakaria.png" style="cursor:pointer;" onclick="window.open('http://akt.ma/')" alt=""></div>        
+        <div align="center"><img src="images/partners/hyundai.png" style="cursor:pointer;" onclick="window.open('https://www.hyundai.com/ma/fr')" alt=""></div>
+        <div align="center"><img src="images/partners/atlas.jpg" style="cursor:pointer;" onclick="window.open('https://www.hotelsatlas.com/')" alt=""></div>        
+        <div align="center"><img src="images/partners/atlanta.jpg" style="cursor:pointer;" onclick="window.open('https://www.atlanta.ma/')" alt=""></div>          
+        <div align="center"><img src="images/partners/omrane.jpg" style="cursor:pointer;" onclick="window.open('https://www.alomrane.gov.ma/')" alt=""></div>         
+        <div align="center"><img src="images/partners/cashplus.png" style="cursor:pointer;" onclick="window.open('https://www.cashplus.ma/fr/')" alt=""></div>         
+        <div align="center"><img src="images/partners/sopriam.jpg" style="cursor:pointer;" onclick="window.open('http://www.sopriam.ma/')" alt=""></div>
+        <div align="center"><img src="images/partners/wafacash01.png" style="cursor:pointer;" onclick="window.open('https://www.wafacash.com/ar')" alt=""></div>
+          
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section id="presse">
+      <div class="container">
+        <!-- Presse -->
+        <div class="row text-center presse">
+          <div class="col-sm-12 headling"  data-aos="zoom-in">
+            <h2>ils parlent de nous</h2>
+          </div>
+
+          <!--<div class="col-sm-3 col-md-4 offset-md-1 offset-lg-2 logo" style="cursor:pointer;" data-aos="flip-up"><img src="images/presse/2m.jpg" alt="" onclick="window.open('https://www.youtube.com/watch?v=gC2oiCHyXtE&t=44s');"></div>-->
+			<div class="col-sm-1 col-md-8 offset-md-1 offset-lg-2 logo" style="cursor:pointer;" data-aos="flip-up"><img src="images/presse/2m.jpg" alt="" onclick="window.open('https://www.youtube.com/watch?v=gC2oiCHyXtE&t=44s');"></div>
+          
+        </div>
+      </div>
+  </section>
+<section id="social-icons">
+    <div class="container">        <!-- Social icons -->
+        <div class="row text-center social">
+            <div class="col-sm-12" data-aos="fade-in">
+			<a href="#"><img src="images/icons/fb.png" style="cursor:pointer;" alt="" onclick="window.open('social_redirect.html?rs=f')"></a> 			
+			<a href="#"><img src="images/icons/insta.png" style="cursor:pointer;" onclick="window.open('social_redirect.html?rs=i')" alt=""></a>
+			<a href="#"><img src="images/icons/yt.png" style="cursor:pointer;" alt="" onclick="window.open('social_redirect.html?rs=y')"></a> 			
+        </div>
+        </div>
+    </div>
+</section>  <!-- /.container -->  <!-- Footer -->
+<footer class="py-5 bg-blue">
+    <div class="container">
+
+	<!--<div align="center">	
+<div class="gtranslate_wrapper"></div>
+<script>window.gtranslateSettings = {"default_language":"fr","native_language_names":true,"detect_browser_language":true,"url_structure":"sub_domain","languages":["fr","en"],"wrapper_selector":".gtranslate_wrapper","flag_size":24,"switcher_horizontal_position":"inline"}</script>
+<script src="https://cdn.gtranslate.net/widgets/latest/dwf.js" defer></script>
+	</div>-->
+	
+	<div style="margin-top:15px;">
+	<p class="m-0 text-center text-white menu"><a href="#" onclick="window.open('ccv_redirect.html?c=cg');">Conditions gÃ©nÃ©rales</a>
+	â¢ <a href="#" onclick="window.open('ccv_redirect.html?c=ml');">
+    Mentions lÃ©gales</a> â¢ <a href="#" onclick="window.open('Faq.html');">FAQ</a> â¢ <a href="Contact.html">Nous contacter</a></p>
+        <p class="m-0 text-center text-white copyright">Copyright 2024 Â© All Rights Reserved.</p>
+	</div>		
+		</div>
+							
+		
+		</div>
+    <!-- /.container -->
+</footer>
+</div>
+<!-- Video Modal -->
+<div class="modal fade" id="videoModal" tabindex="-1" role="dialog" aria-labelledby="videoModal" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-body">
+            
+            <div class="rowd">
+            <div class="col-sm-12 text-center">  
+            <h2 style="color:#2c8098;">Dernier gagnant</h2>             
+                <img src="pieces/478310690_1826873437026454804__n.jpg" width="400"/>                               
+                <br>
+                <br>	
+                    <button onclick="understand()" style="font-size:21px;background-color:#497eba;color:#fff;padding:7px 65px;border-radius:50px;border:0;">Fermer</button>
+				</div>
+            </div>
+            
+                
+                
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Bootstrap core JavaScript -->
+<script src="vendor/jquery/jquery.min.js"></script>
+<script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+<script src="vendor/bootstrap/js/bootstrap-select.min.js"></script>
+<script src="vendor/animate/aos.js"></script>  <!-- Vendor -->
+<script src="vendor/jquery.easing/jquery.easing.min.js"></script>
+<script src="js/theme.js"></script>  <!-- Current Page Vendor and Views -->
+<script src="vendor/rs-plugin/js/jquery.themepunch.tools.min.js"></script>
+<script src="vendor/rs-plugin/js/jquery.themepunch.revolution.min.js"></script>  <!-- Theme Custom -->
+<script src="js/custom.js"></script>  <!-- Theme Initialization Files -->
+<script src="js/theme.init.js"></script>
+<script src="owlcarousel/dist/owl.carousel.min.js"></script>
+<script> 
+
+
+/************ Slider Responsive **********/   
+
+
+	
+
+	if(detectDeviceMobile()){
+		document.getElementById('img_slider').src='images/bg-slider-mobile3_minified.jpg';
+	}
+
+
+	function slideTextPosition() {
+        /**var viewWidth = $(document).width();
+        var containerWidth = $('.container').width();
+        if ($(window).width() > 602) {
+            $(".home-slider .text-slider").css("left", (viewWidth - containerWidth - 150) / 2);
+        } else if ($(window).width() <= 602) {
+            $(".home-slider .tp-bgimg.defaultimg").attr("src", "images/bg-slider-mobile.jpg");
+            $(".home-slider #text-slider").attr("src", "images/text-slider-mobile.png").css("max-width", "90%");
+            $(".home-slider .text-slider").css("top", "-65px");
+        	
+        }
+        if ($(window).width() <= 576) {
+            $(".home-slider .text-slider").css("top", "-55px");
+        }
+        **/
+        
+        var viewWidth = $(document).width();
+        var containerWidth = $('.container').width();        
+        if ($(window).width() <= 602) {            
+        	document.getElementById('img_slider').src='images/bg-slider-mobile3_minified.jpg';
+        }
+        else {
+        	document.getElementById('img_slider').src='images/Slider-home(3)_minified.png';
+        }        
+        
+    }
+
+    $(document).ready(function () {
+        slideTextPosition();
+        $(window).resize(function () {
+            slideTextPosition();
+        });
+        /********** Oxl carousel **********/      $('.owl-carousel').owlCarousel({
+            loop: true,
+            autoplay: true,
+            autoplayTimeout: 3000,
+            autoplayHoverPause: true,
+            nav: true,
+            navText: ["<img src='images/prev.png'>", "<img src='images/next.png'>"],
+            responsive: {
+                0: {items: 2, nav: true},
+                480: {items: 2, nav: true},
+                600: {items: 3, nav: true},
+                1000: {items: 5, nav: true, loop: true}
+            }
+        });
+        AOS.init({mirror: false, once: true,});
+    });
+    /***** Scroll Effects *****/    window.onscroll = function () {
+        myFunction()
+    };
+    var header = document.getElementById("myHeader");
+    var sticky = header.offsetTop;
+
+    function myFunction() {
+        if (window.pageYOffset > sticky) {
+            header.classList.add("sticky");
+        } else {
+            header.classList.remove("sticky");
+        }
+    }
+
+    $(window).on("orientationchange", function (event) {
+        location.reload();
+    });  
+    
+
+   
+    function connexion(){	
+    		//window.location.href='getConnexionMembreAction.do';
+    		window.location.href='getConnexionMembreInitAction.do';
+    	}
+   
+    
+    document.addEventListener("DOMContentLoaded",
+            function() {
+                var div, n,
+                    v = document.getElementsByClassName("youtube-player");
+                for (n = 0; n < v.length; n++) {
+                    div = document.createElement("div");
+                    div.setAttribute("data-id", v[n].dataset.id);
+                    div.innerHTML = labnolThumb(v[n].dataset.id);                    
+                    div.onclick = labnolIframe;
+                    v[n].appendChild(div);
+                }
+            });
+
+        function labnolThumb(id) {
+            var thumb = '<img src="images/img_default_youtube_video.jpg" class="youtube-player-img">',
+                play = '<div class="play"></div>';
+            return thumb.replace("ID", id) + play;
+        }
+
+        function labnolIframe() {
+            var iframe = document.createElement("iframe");
+            var embed = "https://www.youtube.com/embed/ID?autoplay=1";
+            iframe.setAttribute("src", embed.replace("ID", this.dataset.id));
+            iframe.setAttribute("frameborder", "0");
+            iframe.setAttribute("allowfullscreen", "1");
+            this.parentNode.replaceChild(iframe, this);
+        }
+        
+        
+        function launchModal(){
+			$('#videoModal').modal({
+				
+				  keyboard: true
+				});
+				$('#videoModal').modal('show');
+			
+		}
+        
+        function understand(){	    	
+	    	$('#videoModal').modal('toggle');
+	    }
+        
+        setTimeout(function() { launchModal(); }, 7000);
+        
+        
+        /**var loc = location.search.split('code=');
+    	if(loc.length == 2){
+    		localStorage.setItem('codeParrainageParrain', '' + loc[1] + '');
+    	}**/
+		
+		/** tracking campagnes**/
+		function getQuerystring(key) {
+			var query = window.location.search.substring(1);
+			var vars = query.split("&");
+			for (var i = 0; i < vars.length; i++) {
+				var pair = vars[i].split("=");
+				if (pair[0] == key) {
+				return pair[1];
+				}
+			}
+		}
+	
+		//var trackid = location.search.split('trackid=')[1];    	
+		var trackid = getQuerystring('trackid');    	
+    	localStorage.setItem('trackid', '' + trackid + '');
+		
+
+    </script>
+    
+    
+	<script src="chatbot.js?ver=1" defer></script>
+	<!--<script src="//code.tidio.co/gazeh54gbz30zuyy00hb4gpdw0daxwku.js" async></script>-->
+	
+	
+	<div class="gtranslate_wrapper"></div>
+<script>window.gtranslateSettings = {"default_language":"fr","native_language_names":true,"detect_browser_language":true,"url_structure":"sub_directory","languages":["fr","en","ar"],"wrapper_selector":".gtranslate_wrapper"}</script>
+<script src="https://cdn.gtranslate.net/widgets/latest/float.js" defer></script>
+    
+</body>
+
+</html>
